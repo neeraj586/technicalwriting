@@ -19,7 +19,7 @@ jobs:
           node-version: '18'
 
       - name: Install frontend dependencies
-        run: npm ci
+        run: npm install --legacy-peer-deps
 
       - name: Build frontend assets
         run: npm run build
