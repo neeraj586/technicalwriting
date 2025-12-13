@@ -3,6 +3,8 @@
 source "https://rubygems.org"
 
 gemspec
+gem "jekyll-compose"
+
 
 gem "html-proofer", "~> 5.0", group: :test
 
