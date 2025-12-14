@@ -37,7 +37,7 @@ social:
 # Sidebar / UI
 # -----------------------------------------------------
 
-avatar:
+avatar:/assets/img/avatar.png
 toc: true
 theme_mode:
 
