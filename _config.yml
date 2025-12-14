@@ -1,51 +1,53 @@
 # =====================================================
-# Site Configuration
+# Site configuration
 # =====================================================
 
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 lang: en
 timezone: Asia/Kolkata
 
+# -----------------------------------------------------
+# Branding
+# -----------------------------------------------------
+
 title: technicalwriting.work
 tagline: Honest blogs on everything related to technical writing
 description: >-
-  Hello. Welcome to TW.W — practical, honest writing on technical writing careers, tools, and reality. No bull shit. Everything from own experience. 
-
+  Honest blogs on everything related to technical writing, based on real-world experience.
 
 # -----------------------------------------------------
-# IMPORTANT: Custom domain settings
+# Domain
 # -----------------------------------------------------
+
 url: https://technicalwriting.work
 baseurl: ""
 
 # -----------------------------------------------------
-# Author / Social
+# Author & social (LinkedIn only)
 # -----------------------------------------------------
-github:
-  username: neeraj586
-
-twitter:
-  username:
 
 social:
-  name: Neeraj
+  name: TechnicalWriting.work
   email:
   links:
-    - https://github.com/neeraj586
+    - https://www.linkedin.com/company/technicalwriting-work/about
 
 # -----------------------------------------------------
-# Theme options
+# Sidebar / UI
 # -----------------------------------------------------
+
+avatar:
 toc: true
 theme_mode:
 
+# Chirpy CDN
 cdn: https://chirpy-img.netlify.app
-avatar:
 
 # -----------------------------------------------------
 # PWA
 # -----------------------------------------------------
+
 pwa:
   enabled: true
   cache:
@@ -54,10 +56,11 @@ pwa:
 # -----------------------------------------------------
 # Pagination
 # -----------------------------------------------------
+
 paginate: 10
 
 # =====================================================
-# Collections & Defaults (DO NOT override permalinks)
+# Collections & defaults
 # =====================================================
 
 collections:
@@ -87,7 +90,7 @@ defaults:
       permalink: /:title/
 
 # =====================================================
-# Markdown / Build
+# Markdown & build
 # =====================================================
 
 kramdown:
@@ -104,7 +107,7 @@ compress_html:
   profile: false
 
 # =====================================================
-# Excludes
+# Exclusions
 # =====================================================
 
 exclude:
