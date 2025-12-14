@@ -11,7 +11,7 @@ timezone: Asia/Kolkata
 # Branding
 # -----------------------------------------------------
 
-title: technicalwriting.work
+title: tw.w
 tagline: Honest blogs on everything related to technical writing
 description: >-
   Honest blogs on everything related to technical writing, based on real-world experience.
@@ -37,7 +37,8 @@ social:
 # Sidebar / UI
 # -----------------------------------------------------
 
-avatar: /assets/img/avatar-v2.png
+avatar: /assets/img/avatar.png
+
 
 
 toc: true
