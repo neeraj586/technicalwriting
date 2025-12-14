@@ -7,10 +7,11 @@ remote_theme: cotes2020/jekyll-theme-chirpy
 lang: en
 timezone: Asia/Kolkata
 
-title: TW.W
-tagline: Everything around Technical Writing
+title: technicalwriting.work
+tagline: Honest blogs on everything related to technical writing
 description: >-
-  Everything around Technical Writing.
+  Hello. Welcome to TW.W — practical, honest writing on technical writing careers, tools, and reality. No bull shit. Everything from own experience. 
+
 
 # -----------------------------------------------------
 # IMPORTANT: Custom domain settings
