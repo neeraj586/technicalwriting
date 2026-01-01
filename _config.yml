@@ -27,11 +27,7 @@ baseurl: ""
 # Author & social (LinkedIn only)
 # -----------------------------------------------------
 
-social:
-  name: TechnicalWriting.work
-  email:
-  links:
-    - https://www.linkedin.com/company/technicalwriting-work/about
+
 
 # -----------------------------------------------------
 # Sidebar / UI
