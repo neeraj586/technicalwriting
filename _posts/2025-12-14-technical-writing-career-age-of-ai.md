@@ -59,13 +59,13 @@ As many institutes claim it, this is not a relaxing job role or a profession ide
 
 Individuals interested in technical products, curious to learn, and able to communicate clearly would be a good fit. His or her core ability lies in hiding the complexities of the product using words.
 
-# **Salary**
+## **Salary**
 
 As per the survey conducted by various technical writing communities, salaries for freshers are around 4.30, which is wrong. In product companies, the fresher salaries range from 7 to 12 LPA or even more. The highest reported salary as per the survey is around 75 LPA. But I know someone who was earning more than that 5 years before. But the fact is that it all depends on the company you are in. Below are the salary survey details from the [*STC*](https://stc-india.org/conferences/2024/stc-india-salary-survey-2024/) and [Techwriter’s tribe](https://techwriterstribe.com/surveys/).
 
 ![Technical writer salary trends](/assets/img/posts/ai-career/image4.png)
 
-# **Future outlook**
+## **Future outlook**
 
 As per the job posting in job-listing portals, the demand is high for mid-senior roles. 6–7 years of experience. But this is the case for most roles.
 
