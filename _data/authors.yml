@@ -1,7 +1,11 @@
 neeraj:
   name: Neeraj K
-  linkedin: https://www.linkedin.com/in/neerajtechnicalwriter/
   bio: Technical writer with hands-on product experience.
+  avatar: /assets/img/avatar.png
+  social:
+    links:
+      - https://www.linkedin.com/in/neerajtechnicalwriter/
+
   
 
 guest:
