@@ -45,7 +45,7 @@ toc: true
 theme_mode:
 
 # Chirpy CDN
-cdn: https://chirpy-img.netlify.app
+cdn: 
 
 # -----------------------------------------------------
 # PWA

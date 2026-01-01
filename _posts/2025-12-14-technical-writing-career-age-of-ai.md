@@ -12,12 +12,12 @@ But now things have changed, and many colleges teach it as a subject. But the qu
 ## **What’s this profession like?**
 
 The role of a technical writer is to make a feature or procedure easier to understand through added context and simplified language. And these roles are required in all industries.
+![Role of a technical writer](/assets/img/posts/ai-career/image1.png)
 
 For example, airlines, hardware, electrical, semiconductor, IT, electrical, electronics and the rest. In the aircraft industry, the features and the procedural steps are around the aircraft components and functionality. In the electrical industry, it can explain any specific electrical device and how to operate those. For the IT industry, it can be a document explaining software use.
 
 The more complicated the product is, the greater the requirement for a technical writer. The writer is the person who removes the complication around the product and makes it simple for the end user. End users can also be a support team within the company, configuring software for a client, end customer, or acting as a source of truth.
 
-![Role of a technical writer](/assets/img/posts/ai-career/image1.png)
 
 ## **Will this career exist in this era of AI?**
 
@@ -76,5 +76,3 @@ Demand for technical writers in general would increase, but **with AI the expect
 Knowledge gaps will be easier to identify, increasing the need for documentation.
 
 Overall, the future is challenging, but you are more powerful now. Your career growth will depend on how well you use these AI superpowers.
-
-![Future of technical writing](/assets/img/posts/ai-career/future.png)
