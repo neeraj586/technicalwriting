@@ -16,8 +16,9 @@
               {% include datetime.html date=post.date %}
             </span>
             <span>·</span>
-            {% include read-time.html content=post.content %}
-          </div>
+            {% assign words = post.content | number_of_words %}
+{% assign minutes = words | divided_by: 200 | at_least: 1 %}
+{{ minutes }} min read </div>
         </div>
       </a>
     </article>
