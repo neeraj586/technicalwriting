@@ -1,0 +1,10 @@
+{% if page.author %}
+  {% assign author = site.data.authors[page.author] %}
+  <div class="post-author">
+    <strong>{{ author.name }}</strong>
+    {% if author.social %}
+      · <a href="{{ author.social[0].link }}" target="_blank">LinkedIn</a>
+    {% endif %}
+  </div>
+{% endif %}
+
