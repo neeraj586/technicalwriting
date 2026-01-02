@@ -1,0 +1,26 @@
+{% assign posts = site.posts %}
+
+<div class="post-list">
+  {% for post in posts %}
+    <article class="card-wrapper card">
+      <a href="{{ post.url | relative_url }}" class="post-preview">
+        <div class="card-body">
+          <h2 class="card-title">{{ post.title }}</h2>
+
+          {% if post.description %}
+            <p class="card-text">{{ post.description }}</p>
+          {% endif %}
+
+          <div class="post-meta text-muted">
+            <span>
+              {% include datetime.html date=post.date %}
+            </span>
+            <span>·</span>
+            {% include read-time.html content=post.content %}
+          </div>
+        </div>
+      </a>
+    </article>
+  {% endfor %}
+</div>
+
