@@ -6,29 +6,42 @@ layout: default
 
 <div class="container px-1">
 
-  <!-- Post list (THIS WAS MISSING) -->
-  {% include post-list.html %}
-
-  <!-- Home CTA -->
+  <!-- Home CTA: Substack inline embed -->
   <div class="home-actions text-center my-5">
 
-    <a
-      href="https://technicalwritingwork.substack.com"
-      target="_blank"
-      class="btn btn-primary me-2"
-    >
-      Subscribe on Substack
-    </a>
+    <h2 class="mb-2">Subscribe to TW.W</h2>
+    <p class="text-muted mb-4">
+      Honest writing on technical writing, careers, and reality.
+    </p>
 
-    <a
-      href="https://www.linkedin.com/company/technicalwriting-work/"
-      target="_blank"
-      class="btn btn-outline-secondary"
-    >
-      Follow on LinkedIn
-    </a>
+    <iframe
+      src="https://technicalwritingwork.substack.com/embed"
+      width="100%"
+      height="150"
+      style="
+        border: 1px solid #e5e5e5;
+        background: white;
+        max-width: 480px;
+        margin: 0 auto;
+        display: block;
+      "
+      frameborder="0"
+      scrolling="no">
+    </iframe>
+
+    <div class="mt-4">
+      <a
+        href="https://www.linkedin.com/company/technicalwriting-work/"
+        target="_blank"
+        class="btn btn-outline-secondary btn-sm"
+      >
+        Follow on LinkedIn
+      </a>
+    </div>
 
   </div>
 
-</div>
+  <!-- Post list -->
+  {% include post-list.html %}
 
+</div>
