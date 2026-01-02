@@ -1,5 +1,6 @@
 ---
 title: Technical Writing as a Career in the Age of AI
+description: An honest look at technical writing as a career, its growth, and what AI really changes.
 date: 2025-12-14 09:00:00 +0530
 categories: [career]
 author: neeraj
