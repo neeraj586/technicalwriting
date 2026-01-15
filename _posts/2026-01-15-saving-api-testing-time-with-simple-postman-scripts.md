@@ -7,8 +7,6 @@ tags: [postman, api-testing, productivity]
 author: neeraj
 ---
 
-# Saving API Testing Time with Simple Postman Scripts
-
 Recently, I was thinking about ways to save time while testing APIs.
 
 Before documenting anything, I always test the APIs myself and validate the changes. That’s the ideal approach if you ask me; you know exactly what you’re writing about. But over time, I realised this step eats up a lot of my capacity.
