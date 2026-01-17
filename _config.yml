@@ -134,3 +134,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# =====================================================
+# Analytics
+# =====================================================
+
+analytics:
+  google:
+    id: 'G-627Q0ZXTWD'
