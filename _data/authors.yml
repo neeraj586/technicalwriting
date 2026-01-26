@@ -9,3 +9,7 @@ guest:
   name: Guest Author
   linkedin:
   bio: Guest contributor.
+
+george:
+  name: George Johnson
+  bio: Experienced technical writer with a "test-first" philosophy.

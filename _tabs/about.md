@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-At present, either of us will be the author of the articles on this website.
+At present, any of us will be the author of the articles on this website.
 
 ## Neeraj K
 
@@ -23,5 +23,11 @@ I graduated in 2007, right in the middle of a major recession, and could not fin
 Over the years, I’ve seen how critical documentation is for any product—software, hardware, or anything else in the IT world. What started as “just a job” gradually became something I take real pride in. While documentation may sometimes be overlooked internally by development teams or leadership, it is deeply valued by end users who depend on it.
 
 Through this journey, I’ve learned that documentation is never truly finished. It keeps evolving with new ideas, formats, and structures. Every project teaches something new—a clearer explanation, a simpler presentation, or a smarter way to organise information. That, to me, is the beauty of this field.
+
+## George Johnson
+
+I am an experienced technical writer with over 15 years of expertise and a "test-first" philosophy. I believe in taking a deep dive into the product, personally testing and validating every possible flow before writing to ensure that my documentation can answer any technical question a user might have.
+
+I have never believed in rigid structures or age-old templates; instead, I research daily to identify how to improve and address the specific pain points of our users through the documentation we present. My goal is to move beyond standard manuals and build a documentation ecosystem that provides genuine value. Ultimately, I believe that truly useful docs only come from a deep understanding of the product you are writing about and a constant willingness to try new things.
 
 So here we are. Keep writing, keep authoring, and keep making complex products simple and accessible for everyone through thoughtful documentation.
