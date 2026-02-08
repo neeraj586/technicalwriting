@@ -52,6 +52,10 @@ The list below includes AI tools that we have used at our workplace. Each tool d
 - **[Gamma](https://gamma.app/)**: Helps you create slides quickly.
 - **[Presentation.ai](https://presentation.ai/)**: Creates Amazon webpage–style slides using prompts.
 
+## Building small AI apps for your tasks
+
+- **[Google AI Studio](https://aistudio.google.com/)**: Enables you to create small, task-specific AI apps for your own needs without building full products. Examples include style guide checkers or document review tools.
+
 ## AI newsletters and discovery
 
 - **[The Neuron](https://www.theneuron.ai/)**: Almost sold out now, but still useful at times.
