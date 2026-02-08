@@ -1,5 +1,5 @@
 ---
-title: "I Tried Every AI Tool for Technical Writing—Here Are the Only Ones That Actually Work"
+title: "We Tried Many AI Tools for Technical Writing—Here Are the Ones That Actually Worked"
 description: A curated list of AI tools for documentation, diagramming, and meeting notes based on real-world use.
 date: 2026-02-08 21:50:00 +0530
 categories: [tools, ai]
@@ -67,4 +67,4 @@ The list below includes AI tools that we have used at our workplace. Each tool d
 
 ***
 
-*P.S. Please pardon the clickbait title—it’s a bit of a necessary evil in the age of AI noise! That said, we are always looking for new things to experiment with. If there’s a tool you use and love that isn’t on this list, please let us know. We'd love to try it out.*
+*P.S. We are always looking for new things to experiment with. If there’s a tool you use and love that isn’t on this list, please let us know. We'd love to try it out.*
