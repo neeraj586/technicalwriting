@@ -3,6 +3,37 @@
 icon: fas fa-info-circle
 order: 4
 ---
+## Why this site exists
+
+This site exists to document real experiences and practical guidance for the current generation in the industry, based on our own work.
+
+Much of the writing about technical writing focuses on tools, templates, or theory. It is often written by people who have not tried these ideas themselves, resulting in a lot of words with very little takeaway.
+
+This site focuses on practice: real documentation work, career paths, and trade-offs.
+
+It is also a long-term record of how we think about documentation as the field evolves.
+
+## Who this site is for
+
+This site is for:
+
+- Technical writers at any stage of their career
+- Engineers and product managers who write or review documentation
+- People exploring technical writing as a profession
+- Anyone interested in clear, honest writing about complex systems
+
+## How to read this site
+
+Not everything here is meant to be consumed the same way.
+
+- **Essays**: Structured, opinionated, and revised over time.
+- **Notes**: Observations, questions, or half-formed ideas shared early.
+
+Older posts may be revisited and refined as understanding improves.
+
+You don’t need to read everything. Skim freely. Follow tags. Read what resonates.
+
+---
 
 At present, any of us will be the author of the articles on this website.
 
