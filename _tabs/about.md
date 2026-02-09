@@ -28,6 +28,7 @@ Not everything here is meant to be consumed the same way.
 
 - **Essays**: Structured, opinionated, and revised over time.
 - **Notes**: Observations, questions, or half-formed ideas shared early.
+- **AI tools recommendations**: AI tools that we used and found useful
 
 Older posts may be revisited and refined as understanding improves.
 
