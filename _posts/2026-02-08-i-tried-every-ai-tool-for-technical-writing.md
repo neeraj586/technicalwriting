@@ -7,16 +7,16 @@ tags: [ai tools, technical writing, productivity, documentation]
 author: neeraj
 ---
 
-The list below includes AI tools that we have used at our workplace. Each tool deserves a deeper review, which I plan to publish as separate posts and link here over time. For now, this post provides a concise list with one-line reviews based on our hands-on experience.
+The list below includes AI tools that we have used at our workplace. Each tool deserves a deeper review, which we plan to publish as separate posts and link here over time. For now, this post provides a concise list with one-line reviews based on our hands-on experience.
 
 ## Documentation from code
 
-- **[Promptless](https://promptless.ai/)**: This is the best tool that I have used so far. The idea is simple: it looks at code changes and suggests documentation drafts. It works for both API and UI documentation (UI without images). I am yet to find a similar tool that does this well.
+- **[Promptless](https://promptless.ai/)**: This is the best tool that we have used so far. The idea is simple: it looks at code changes and suggests documentation drafts. It works for both API and UI documentation (UI without images). We are yet to find a similar tool that does this well.
 
 ## Documentation from video / walkthroughs
 
 - **[Clueso](https://www.clueso.io/)**: Helps you create tutorial videos and how-to articles at the same time by uploading a recorded demo session or doing a live walkthrough of the product.
-- **[Zenious](https://www.zenious.ai/)**: Just got a demo and tried a very basic guide. Similar to Clueso.
+- **[Zenious](https://www.zenious.ai/)**: We just got a demo and tried a very basic guide. Similar to Clueso.
 - **[Guidde](https://www.guidde.com/)**: Another tool with a similar offering.
 
 *Note: In general, there are thousands of tools with this feature—creating documentation from walkthroughs. Most of them are Chrome extensions.*
@@ -24,7 +24,7 @@ The list below includes AI tools that we have used at our workplace. Each tool d
 ## Image and diagram generation
 
 - **Mermaid**: Useful for creating entity relationship diagrams, flowcharts, and block diagrams. You can use any LLM to generate the flow structure and Mermaid code, then reuse that code in your documentation tool if it supports Mermaid.
-- **[Whimsical](https://whimsical.com/)**: The first tool I came across that introduced a “Generate with AI” option. You can use prompts to create flow diagrams and similar visuals.
+- **[Whimsical](https://whimsical.com/)**: The first tool we came across that introduced a “Generate with AI” option. You can use prompts to create flow diagrams and similar visuals.
 - **[Lucidchart](https://lucid.app/)**: Similar to Whimsical, but better suited for more complex diagrams.
 - **[Napkin](https://napkin.ai/)**: Enables you to create visual representations by providing context about features.
 
@@ -36,7 +36,8 @@ The list below includes AI tools that we have used at our workplace. Each tool d
 ## Documentation assistants
 
 - **[NotebookLM](https://notebooklm.google.com/)**: Allows you to add different input sources such as meeting transcripts, reference documents, and more. It can generate rough documents, FAQs, podcast-style knowledge-sharing content, and more.
-- **Any LLM model**: You don’t need to list specific ones here. Use Gemini, custom GPTs, or similar tools by providing your documentation as a source and querying it to get answers.
+- **Any LLM model**: For any regular tasks.
+- **Claude Code/CoWork/Chat**: Needs special mention. When you combine your technical writing skills, your documentation MCP, and your GitHub repo, you might end up spending most of your time here running everything.
 
 ## Meeting note takers
 
@@ -45,7 +46,7 @@ The list below includes AI tools that we have used at our workplace. Each tool d
 
 ## Analysing code
 
-- **VS Code–based tools (Cursor, Antigravity, etc.)**: These tools get access to the repository, clone it, and allow you to query the codebase to get answers based on the actual code.
+- **VS Code–based tools (Cursor, Antigravity, etc.)**: These tools get access to the repository, clone it, and allow you to query the codebase to get answers based on the actual code. Also, you can update your docs from here without opening the front-facing doc tool if your docs are two way git-syc enabled. 
 
 ## Slides and presentations
 
@@ -66,7 +67,7 @@ The list below includes AI tools that we have used at our workplace. Each tool d
 
 - **[Theneo](https://theneo.ai/)**: Has impressive AI features, but loads slowly when documentation is large.
 - **[ReadMe](https://readme.com/)**: Trying to catch up with AI features. Not ideal for very large documentation sets.
-- **Documentation.ai**: Another documentation tool with AI features. Tried it. Not great.
+- **Documentation.ai**: Another documentation tool with AI features. We tried it. Not great.
 - **[Velu](https://getvelu.com/)**: Yet to try.
 
 ***
